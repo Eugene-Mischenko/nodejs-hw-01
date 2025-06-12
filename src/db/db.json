@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "65e24ae6-484a-461f-a8c8-4e6e6ffaba83",
+    "name": "Marty Altenwerth",
+    "phone": "539.809.8003 x83021",
+    "email": "Barry.Wiegand85@gmail.com",
+    "job": "Principal Optimization Officer"
+  },
+  {
+    "id": "753b2352-6f84-417a-a67e-bbade0b3e1fa",
+    "name": "Herman Smith",
+    "phone": "401.417.4320 x9395",
+    "email": "Clint22@hotmail.com",
+    "job": "Internal Tactics Assistant"
+  },
+  {
+    "id": "3ede1c93-c440-42d0-a7f5-f74d95f88226",
+    "name": "Willie Haag",
+    "phone": "(435) 674-3460 x9063",
+    "email": "Ada40@yahoo.com",
+    "job": "District Program Administrator"
+  }
+]
